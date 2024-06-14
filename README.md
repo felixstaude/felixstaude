@@ -15,7 +15,8 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixstaude&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
- 
+</br>
+</br>
  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/felixstaude/GHG-Map-backend/pull/5) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
@@ -25,7 +26,9 @@
 5. 🎉 Merged PR [#3](https://github.com/felixstaude/GHG-Map-backend/pull/3) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
 <!--END_SECTION:activity-->
  
- 
+</br> 
+</br>
+
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felixstaude&show_icons=true" />
