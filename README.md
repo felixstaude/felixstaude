@@ -10,7 +10,8 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixstaude" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixstaude&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixstaude&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
  
@@ -36,7 +37,7 @@
 </details>
  
 <!-- GitHub section: END -->
- 
+   
 <!-- Profile Views -->
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixstaude&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
