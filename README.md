@@ -18,14 +18,6 @@
 </br>
 </br>
  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/felixstaude/GHG-Map-backend/pull/5) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
-2. 💪 Opened PR [#5](https://github.com/felixstaude/GHG-Map-backend/pull/5) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
-3. 🎉 Merged PR [#4](https://github.com/felixstaude/GHG-Map-backend/pull/4) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
-4. 💪 Opened PR [#4](https://github.com/felixstaude/GHG-Map-backend/pull/4) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
-5. 🎉 Merged PR [#3](https://github.com/felixstaude/GHG-Map-backend/pull/3) in [felixstaude/GHG-Map-backend](https://github.com/felixstaude/GHG-Map-backend)
-<!--END_SECTION:activity-->
- 
 </br> 
 </br>
 
