@@ -4,17 +4,7 @@
  
 ✨ I'm a Java Developer who enjoys doing Fun Projects
  
-<!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixstaude" alt="Gift's LangStat" />
-   </br> </br>
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixstaude&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
- 
+<!-- GitHub section --> 
 </br>
 </br>
  
